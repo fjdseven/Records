@@ -5,7 +5,7 @@
 
 class Records {
 	
-	public $baseDir = '/home/taqquika/mottaquikarim.com/services/records/app/records/guids/';
+	public $baseDir = '/home/taqquika/mottaquikarim.com/Records/app/records/guids/';
 	public $guids;
 		
 	function __construct() {
